@@ -40,4 +40,3 @@ The dashboard connects to the following sources:
    ```bash
    git clone https://github.com/your-username/sales-dashboard.git 
    ```
-## contributer 
