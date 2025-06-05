@@ -38,5 +38,6 @@ The dashboard connects to the following sources:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/sales-dashboard.git
+   git clone https://github.com/your-username/sales-dashboard.git 
    ```
+## contributer 
